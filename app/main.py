@@ -4,7 +4,7 @@ from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from app.api.v1.endpoints.chat_routes import chat_router
 from app.utils.env_loader import load_environment
-
+#hi
 # Load environment variables
 load_environment()
 
